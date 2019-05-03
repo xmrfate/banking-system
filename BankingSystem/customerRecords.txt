@@ -1,0 +1,7 @@
+Name	Age	Address	City, State Zip	Phone Number
+-----------------------------------------------------------------------
+Brandon Jinright	20	18722 Address Way	Athens, AL 35611	2569982862
+Brandy Wense	21	18722 Address Way	Athens, AL 35611	2569982862
+John Jinright	54	18722 Address Way	Athens, AL 35611	2569982862
+Kem Jinright	47	18722 Address Way	Athens, AL 35611	2569982862
+Elizabeth Lucas	27	18722 Address Way	Athens, AL 35611	2569982862
