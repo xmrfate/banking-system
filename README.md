@@ -14,7 +14,8 @@ Things I learned throughout the development process:
 -Use of header files
 -Proper input validation techniques
 -Applications of pointers
--Vectors
+-Control structures
+-Basic use of vectors
 -and much more!
 
 Enjoy!
